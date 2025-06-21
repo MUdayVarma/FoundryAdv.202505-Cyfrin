@@ -1,0 +1,3 @@
+[submodule "02-NFTs-Collection/lib/openzeppelin-contracts"]
+	path = 02-NFTs-Collection/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
