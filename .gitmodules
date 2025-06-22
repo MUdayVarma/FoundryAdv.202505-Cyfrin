@@ -1,3 +1,6 @@
 [submodule "02-NFTs-Collection/lib/openzeppelin-contracts"]
 	path = 02-NFTs-Collection/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "02-NFTs-Collection/lib/foundry-devops"]
+	path = 02-NFTs-Collection/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
