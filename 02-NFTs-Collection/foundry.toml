@@ -3,6 +3,7 @@ src = "src"
 out = "out"
 libs = ["lib"]
 ffi = true
+#allowed_paths = ["/Users/udayvarma/UdayWorkSpace/Practice/Cyfrin-FoundryAdv.202505/02-NFTs-Collection/broadcast"]
 
 remappings = ['@openzeppelin/contracts = lib/openzeppelin-contracts/contracts']
 

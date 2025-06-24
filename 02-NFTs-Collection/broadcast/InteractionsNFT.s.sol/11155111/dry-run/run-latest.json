@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x135945c3e690397894224c20ed9a7a570a05fcaa",
+      "function": "mintNFT(string)",
+      "arguments": [
+        "ifps://QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW"
+      ],
+      "transaction": {
+        "from": "0x58e4d670dea0ad09d21ce4144e46c17d27bfaa53",
+        "to": "0x135945c3e690397894224c20ed9a7a570a05fcaa",
+        "gas": "0x392c3",
+        "value": "0x0",
+        "input": "0xfb37e88300000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000035696670733a2f2f516d55506a41444647454b6d666f686454614e635768703756476b323668356a5844413776335674546e544c63570000000000000000000000",
+        "nonce": "0x29",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "returns": {},
+  "timestamp": 1750618804,
+  "chain": 11155111,
+  "commit": "7d2e1e6"
+}
